@@ -1,4 +1,4 @@
-# Javascript30 - JS Clock challenge
+# Javascript30 - Ajax Type Ahead challenge
 
 This is a solution to the [Ajax Type Ahead](https://github.com/wesbos/JavaScript30) challenge provided by Wesbos on his JavaScript30 course.
 
@@ -18,7 +18,7 @@ This is a solution to the [Ajax Type Ahead](https://github.com/wesbos/JavaScript
 
 Users should be able to:
 
-- Create an API based searching tool
+- Create an API based search tool
 - Display results based on inputs
 
 ### Screenshot
